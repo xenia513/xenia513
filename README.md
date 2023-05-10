@@ -21,9 +21,8 @@
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=xenia513&style=flat-square&color=blue" alt=""/>
-</div> 
+
+
 
 
 𝐇𝐚𝐫𝐝 𝐬𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬:
