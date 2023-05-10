@@ -1,7 +1,11 @@
 <div id="header" align="center">
   <img src="https://gifdb.com/images/high/pusheen-cat-welcome-rs7fmtp64fodfdqr.webp" width="20%"/>
 <div align="middle">
-<h1>
+<h3>
+  𝘏𝘪! 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘒𝘴𝘦𝘯𝘪𝘺𝘢. 𝘐 𝘢𝘮 𝘢 𝘘𝘈-𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘧𝘳𝘰𝘮 𝘚𝘢𝘮𝘢𝘳𝘢, 𝘙𝘶𝘴𝘴𝘪𝘢.
+  
+  
+𝘠𝘰𝘶 𝘤𝘢𝘯 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 𝘩𝘦𝘳𝘦:
 <p align="middle">
   <a href="https://www.linkedin.com/in/xenia513/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,7 +29,7 @@
 
 
 
-𝐇𝐚𝐫𝐝 𝐬𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬:
+𝘔𝘺 𝘩𝘢𝘳𝘥 𝘴𝘬𝘪𝘭𝘭𝘴 𝘢𝘯𝘥 𝘵𝘰𝘰𝘭𝘴:
 
 <div>
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
